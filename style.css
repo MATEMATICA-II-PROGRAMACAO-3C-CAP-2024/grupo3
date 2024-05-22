@@ -17,6 +17,7 @@
         .titulo-secundario{
         font-size: 24px;
         font-family: var(--roboto);
+        margin-top: 80px;
         }
 
 body{
