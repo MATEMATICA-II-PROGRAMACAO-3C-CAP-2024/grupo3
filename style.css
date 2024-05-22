@@ -16,19 +16,20 @@
         }
         .titulo-secundario{
         font-size: 24px;
-        font-family: var(--roboto);
+        
         margin-top: 80px;
         *{
             font-weight: 400;
             }
         }
-
+    .conteudo-titulo{
+        text-align: center;
+        }
 body{
+    font-family: var(--roboto);
     color: var(--branco);
     background-color: var(--cor-de-fundo);
 }
    
-    .conteudo-titulo{
-        text-align: center;
-        }
+    
 
