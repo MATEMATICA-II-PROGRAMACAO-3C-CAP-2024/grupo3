@@ -1,3 +1,3 @@
 # grupo3
 MATEMATICA-II-PROGRAMACAO-3C-CAP-2024
-paramos na aula: 
+paramos na aula: 3
